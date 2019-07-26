@@ -1,4 +1,7 @@
 # Algoritmos de Ordenação 
+Os gif's a seguir ilustram a lógica de aplicada em cada algoritmo
+desenvolvido neste repositório.
+
 - __Bubble Sort__  
 <img src="https://github.com/venezianluis/pybuscas/blob/master/Sort/bubble-sort.gif" 
  alt="Bubble Sort" width="200" height="100"/>
