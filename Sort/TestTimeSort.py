@@ -1,7 +1,7 @@
 import time
 
 
-class SortTest():
+class SortTest:
     def __init__(self, v, start):
         self.vetor = v
         self.start = start
