@@ -1,16 +1,11 @@
 # Algoritmos de Ordenação 
-- __Bubble Sort__
-
+- __Bubble Sort__  
 <img src="https://github.com/venezianluis/pybuscas/blob/master/Sort/bubble-sort.gif" 
- alt="Bubble Sort" width="300"/>
- 
- - __Insertion Sort__
-
+ alt="Bubble Sort" width="200" height="100"/>
+ - __Insertion Sort__  
 <img src="https://github.com/venezianluis/pybuscas/blob/master/Sort/insertion-sort.gif" 
- alt="Bubble Sort" width="300"/>
- 
-- __Selection Sort__
-
+ alt="Bubble Sort" width="200" height="100"/>
+- __Selection Sort__  
 <img src="https://github.com/venezianluis/pybuscas/blob/master/Sort/selection-sort.gif" 
  alt="Bubble Sort" width="100" height="300"/>
  
